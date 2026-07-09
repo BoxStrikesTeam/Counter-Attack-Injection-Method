@@ -264,7 +264,7 @@ This report and PoC are provided for educational and research purposes only. Use
 
 For questions, feedback, or collaboration:
 - **Email:** BoxStrikesTeam@proton.me
-- **Twitter/X:** @BoxStrike
+
 
 ---
 
