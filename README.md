@@ -1,4 +1,4 @@
-```markdown
+
 # BoxStrike · Finding 001
 
 ## Linux Defense Evasion: `memfd_secret()` + `mseal()`
