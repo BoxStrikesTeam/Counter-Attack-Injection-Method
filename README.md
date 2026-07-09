@@ -1,5 +1,5 @@
 
-# BoxStrike · Finding 001
+# BoxStrike · Finding 001 Counter-Attack-Injection-Method
 
 ## Linux Defense Evasion: `memfd_secret()` + `mseal()`
 
