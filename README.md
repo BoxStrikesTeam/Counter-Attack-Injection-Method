@@ -4,7 +4,7 @@
 ## Linux Defense Evasion: `memfd_secret()` + `mseal()`
 
 **Date:** July 9, 2025  
-**Author:** BoxStrike Research Team  
+**Author:** Eneshan Erdoğan Karaca  
 **Version:** 1.0  
 **Status:** Public Disclosure
 
