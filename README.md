@@ -244,7 +244,7 @@ We are committed to responsible disclosure and have given the Linux community ad
 - Linux kernel source: `mm/secretmem.c`, `mm/mseal.c`
 - LWN.net – “mseal: sealing memory mappings” (2024)
 - Trail of Bits – “mseal analysis” (2024)
-- MITRE ATT&CK – Defense Evasion (TA0005) / Stealth (TA0005)
+-
 
 ---
 
